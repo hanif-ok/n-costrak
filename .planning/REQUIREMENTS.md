@@ -103,57 +103,57 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| INPT-01 | — | Pending |
-| INPT-02 | — | Pending |
-| INPT-03 | — | Pending |
-| INPT-04 | — | Pending |
-| INPT-05 | — | Pending |
-| INPT-06 | — | Pending |
-| INPT-07 | — | Pending |
-| KALK-01 | — | Pending |
-| KALK-02 | — | Pending |
-| KALK-03 | — | Pending |
-| KALK-04 | — | Pending |
-| KALK-05 | — | Pending |
-| KALK-06 | — | Pending |
-| KALK-07 | — | Pending |
-| KALK-08 | — | Pending |
-| KALK-09 | — | Pending |
-| KALK-10 | — | Pending |
-| DASH-01 | — | Pending |
-| DASH-02 | — | Pending |
-| DASH-03 | — | Pending |
-| DASH-04 | — | Pending |
-| GRAF-01 | — | Pending |
-| GRAF-02 | — | Pending |
-| GRAF-03 | — | Pending |
-| GRAF-04 | — | Pending |
-| SIML-01 | — | Pending |
-| SIML-02 | — | Pending |
-| SIML-03 | — | Pending |
-| SIML-04 | — | Pending |
-| SIML-05 | — | Pending |
-| DATA-01 | — | Pending |
-| DATA-02 | — | Pending |
-| DATA-03 | — | Pending |
-| DATA-04 | — | Pending |
-| DATA-05 | — | Pending |
-| DATA-06 | — | Pending |
-| DATA-07 | — | Pending |
-| DATA-08 | — | Pending |
-| LNJT-01 | — | Pending |
-| LNJT-02 | — | Pending |
-| LNJT-03 | — | Pending |
-| TECH-01 | — | Pending |
-| TECH-02 | — | Pending |
-| TECH-03 | — | Pending |
-| TECH-04 | — | Pending |
+| INPT-01 | Phase 1 | Pending |
+| INPT-02 | Phase 1 | Pending |
+| INPT-03 | Phase 1 | Pending |
+| INPT-04 | Phase 1 | Pending |
+| INPT-05 | Phase 1 | Pending |
+| INPT-06 | Phase 1 | Pending |
+| INPT-07 | Phase 1 | Pending |
+| KALK-01 | Phase 1 | Pending |
+| KALK-02 | Phase 1 | Pending |
+| KALK-03 | Phase 1 | Pending |
+| KALK-04 | Phase 1 | Pending |
+| KALK-05 | Phase 1 | Pending |
+| KALK-06 | Phase 1 | Pending |
+| KALK-07 | Phase 1 | Pending |
+| KALK-08 | Phase 1 | Pending |
+| KALK-09 | Phase 1 | Pending |
+| KALK-10 | Phase 1 | Pending |
+| DATA-01 | Phase 1 | Pending |
+| TECH-01 | Phase 1 | Pending |
+| TECH-02 | Phase 1 | Pending |
+| TECH-03 | Phase 1 | Pending |
+| TECH-04 | Phase 1 | Pending |
+| DASH-01 | Phase 2 | Pending |
+| DASH-02 | Phase 2 | Pending |
+| DASH-03 | Phase 2 | Pending |
+| DASH-04 | Phase 2 | Pending |
+| GRAF-01 | Phase 2 | Pending |
+| GRAF-02 | Phase 2 | Pending |
+| GRAF-03 | Phase 2 | Pending |
+| GRAF-04 | Phase 2 | Pending |
+| SIML-01 | Phase 3 | Pending |
+| SIML-02 | Phase 3 | Pending |
+| SIML-03 | Phase 3 | Pending |
+| SIML-04 | Phase 3 | Pending |
+| SIML-05 | Phase 3 | Pending |
+| DATA-02 | Phase 4 | Pending |
+| DATA-03 | Phase 4 | Pending |
+| DATA-04 | Phase 4 | Pending |
+| DATA-05 | Phase 4 | Pending |
+| DATA-06 | Phase 4 | Pending |
+| DATA-07 | Phase 4 | Pending |
+| DATA-08 | Phase 4 | Pending |
+| LNJT-01 | Phase 4 | Pending |
+| LNJT-02 | Phase 4 | Pending |
+| LNJT-03 | Phase 4 | Pending |
 
 **Coverage:**
-- v1 requirements: 44 total
-- Mapped to phases: 0
-- Unmapped: 44 (will be mapped during roadmap creation)
+- v1 requirements: 45 total
+- Mapped to phases: 45
+- Unmapped: 0
 
 ---
 *Requirements defined: 2026-02-23*
-*Last updated: 2026-02-23 after initial definition*
+*Last updated: 2026-02-23 after roadmap creation — all 45 requirements mapped*
