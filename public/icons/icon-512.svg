@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="64" fill="#1e40af"/>
+  <text x="256" y="180" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-weight="bold" font-size="72">MONITOR</text>
+  <text x="256" y="256" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-weight="bold" font-size="64">BEBAN</text>
+  <text x="256" y="330" text-anchor="middle" fill="#93c5fd" font-family="Arial, sans-serif" font-size="48">PEMASARAN</text>
+  <rect x="100" y="370" width="312" height="6" rx="3" fill="#3b82f6"/>
+  <circle cx="160" cy="410" r="16" fill="#16a34a"/>
+  <circle cx="256" cy="410" r="16" fill="#ca8a04"/>
+  <circle cx="352" cy="410" r="16" fill="#dc2626"/>
+</svg>

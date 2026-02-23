@@ -20,7 +20,7 @@ Aplikasi web client-side untuk memantau tiga parameter BPR Askrindo. Dibangun da
 ### Phase 1: Fondasi Kalkulator
 **Goal**: Pinca dapat memasukkan data bulanan dan melihat ketiga parameter BPR (Nominal, Rasio, YoY) terhitung otomatis dan tersimpan dengan benar
 **Depends on**: Nothing (first phase)
-**Requirements**: INPT-01, INPT-02, INPT-03, INPT-04, INPT-05, INPT-06, INPT-07, KALK-01, KALK-02, KALK-03, KALK-04, KALK-05, KALK-06, KALK-07, KALK-08, KALK-09, KALK-10, DATA-01, TECH-01, TECH-02, TECH-03, TECH-04
+**Requirements**: INPT-01, INPT-02, INPT-03, INPT-04, INPT-05, INPT-06, INPT-07, KALK-01, KALK-02, KALK-03, KALK-04, KALK-05, KALK-06, KALK-07, KALK-08, KALK-09, KALK-10, PROY-01, PROY-02, PROY-03, DATA-01, TECH-01, TECH-02, TECH-03, TECH-04
 **Success Criteria** (what must be TRUE):
   1. Pinca dapat membuat profil cabang, memasukkan RKAP, target bulanan, dan realisasi beban/premi per segmen (Non KUR, KUR), lalu nilai Gabungan terhitung otomatis
   2. Ketiga parameter BPR (Nominal, Rasio, YoY) tampil dengan kode warna RAG yang benar (hijau/kuning/merah) sesuai threshold Askrindo

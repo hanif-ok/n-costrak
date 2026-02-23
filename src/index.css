@@ -1,0 +1,98 @@
+@import "tailwindcss";
+
+@theme {
+  --color-askrindo: #1e40af;
+  --color-askrindo-light: #3b82f6;
+  --color-askrindo-dark: #1e3a8a;
+  --color-aman: #16a34a;
+  --color-aman-bg: #f0fdf4;
+  --color-perhatian: #ca8a04;
+  --color-perhatian-bg: #fefce8;
+  --color-bahaya: #dc2626;
+  --color-bahaya-bg: #fef2f2;
+}
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  background-color: #f8fafc;
+  color: #1e293b;
+  min-height: 100vh;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+/* Print styles */
+.print-only {
+  display: none;
+}
+
+@media print {
+  .no-print {
+    display: none !important;
+  }
+
+  .print-only {
+    display: block !important;
+  }
+
+  body {
+    background: white;
+    font-size: 10px;
+    color: #000;
+  }
+
+  main {
+    display: none !important;
+  }
+
+  @page {
+    size: A4 landscape;
+    margin: 12mm;
+  }
+
+  .print-header {
+    border-bottom: 2px solid #1e40af;
+    padding-bottom: 8px;
+    margin-bottom: 12px;
+  }
+
+  .print-section-title {
+    font-size: 12px;
+    font-weight: bold;
+    margin: 0 0 6px 0;
+    color: #1e40af;
+  }
+
+  .print-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 9px;
+    margin-bottom: 8px;
+  }
+
+  .print-table th,
+  .print-table td {
+    border: 1px solid #cbd5e1;
+    padding: 3px 6px;
+    text-align: left;
+  }
+
+  .print-table th {
+    background: #f1f5f9;
+    font-weight: 600;
+    font-size: 8px;
+    text-transform: uppercase;
+  }
+
+  .print-table tbody tr:nth-child(even) {
+    background: #f8fafc;
+  }
+}

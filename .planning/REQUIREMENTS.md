@@ -69,22 +69,18 @@ Requirements for initial release. Each maps to roadmap phases.
 - [ ] **LNJT-02**: User can save and switch between multiple branch profiles
 - [ ] **LNJT-03**: User can print/export summary report
 
+### Proyeksi Paruh Bulan
+
+- [ ] **PROY-01**: User can input realisasi tgl 1-15 and estimasi tgl 16-31 for mid-month projection
+- [ ] **PROY-02**: System calculates Asumsi Total YTD (Real YTD bulan lalu + Real paruh 1 + Potensi paruh 2)
+- [ ] **PROY-03**: System calculates projected % YTD and projected sisa anggaran based on mid-month data
+
 ### Bahasa & Teknis
 
 - [ ] **TECH-01**: Entire UI displayed in Bahasa Indonesia (no English text)
 - [ ] **TECH-02**: Numbers formatted Indonesian style (titik ribuan, koma desimal: Rp1.234.567,89)
 - [ ] **TECH-03**: App works offline after initial load (Service Worker / PWA)
 - [ ] **TECH-04**: App deployable as static website AND usable when saved locally
-
-## v2 Requirements
-
-Deferred to future release. Tracked but not in current roadmap.
-
-### Proyeksi Paruh Bulan
-
-- **PROY-01**: User can input realisasi tgl 1-15 and estimasi tgl 16-31 for mid-month projection
-- **PROY-02**: System calculates Asumsi Total YTD (Real YTD bulan lalu + Real paruh 1 + Potensi paruh 2)
-- **PROY-03**: System calculates projected % YTD and projected sisa anggaran based on mid-month data
 
 ## Out of Scope
 
@@ -148,12 +144,15 @@ Which phases cover which requirements. Updated during roadmap creation.
 | LNJT-01 | Phase 4 | Pending |
 | LNJT-02 | Phase 4 | Pending |
 | LNJT-03 | Phase 4 | Pending |
+| PROY-01 | Phase 1 | Pending |
+| PROY-02 | Phase 1 | Pending |
+| PROY-03 | Phase 1 | Pending |
 
 **Coverage:**
-- v1 requirements: 45 total
-- Mapped to phases: 45
+- v1 requirements: 48 total
+- Mapped to phases: 48
 - Unmapped: 0
 
 ---
 *Requirements defined: 2026-02-23*
-*Last updated: 2026-02-23 after roadmap creation — all 45 requirements mapped*
+*Last updated: 2026-02-23 — moved PROY-01/02/03 from deferred to v1 Phase 1 (already implemented in code)*
