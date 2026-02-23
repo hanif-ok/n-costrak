@@ -11,9 +11,9 @@ export default defineConfig({
     VitePWA({
       registerType: 'autoUpdate',
       manifest: {
-        name: 'Monitor Beban Pemasaran - Askrindo',
-        short_name: 'Monitor BPR',
-        description: 'Monitoring beban pemasaran cabang PT Asuransi Kredit Indonesia',
+        name: 'N-CosTrak - Askrindo',
+        short_name: 'N-CosTrak',
+        description: 'N-CosTrak — Monitoring beban pemasaran cabang PT Asuransi Kredit Indonesia',
         theme_color: '#1e40af',
         background_color: '#f8fafc',
         display: 'standalone',
