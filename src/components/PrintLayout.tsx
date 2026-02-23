@@ -31,7 +31,7 @@ export function PrintLayout() {
       {/* Header */}
       <div className="print-header">
         <h1 style={{ fontSize: '16px', margin: '0 0 4px 0', fontWeight: 'bold' }}>
-          Laporan N-CosTrak
+          Laporan PINTAR
         </h1>
         <p style={{ fontSize: '12px', margin: '2px 0' }}>
           {profil.nama || '—'} — {profil.wilayah || '—'}

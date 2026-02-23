@@ -11,9 +11,9 @@ export default defineConfig({
     VitePWA({
       registerType: 'autoUpdate',
       manifest: {
-        name: 'N-CosTrak - Askrindo',
-        short_name: 'N-CosTrak',
-        description: 'N-CosTrak — Monitoring beban pemasaran cabang PT Asuransi Kredit Indonesia',
+        name: 'PINTAR - Askrindo',
+        short_name: 'PINTAR',
+        description: 'PINTAR — Monitoring beban pemasaran cabang PT Asuransi Kredit Indonesia',
         theme_color: '#1e40af',
         background_color: '#f8fafc',
         display: 'standalone',
